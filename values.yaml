@@ -4,10 +4,10 @@
 
 replicaCount: 1
 image:
-  repository: hemanthhr/r
+  repository: hemanthhr/rsvpdileep
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "23b1b91f70a802199872352077bdd4d4067145ssis"
+  tag: "23b1b91f70a802199872352077bdd4d4067145d6"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
